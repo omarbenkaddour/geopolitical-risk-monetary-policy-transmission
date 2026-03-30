@@ -1,4 +1,4 @@
-# Geopolitical Risk and Monetary Policy Transmission
+# State-Dependent Monetary Policy Transmission under Geopolitical Risk
 
 [Thesis PDF](./Undergraduate%20Thesis.pdf)
 
